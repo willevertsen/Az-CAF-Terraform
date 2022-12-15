@@ -27,7 +27,7 @@ locals {
     "Central US"   = "centralus"
   }
   region_short = {
-    "East US 2"    = "eu2"
+    "East US 2"    = "eus2"
     "Central US"   = "cus"
   }
 }

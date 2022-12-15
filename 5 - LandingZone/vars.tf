@@ -1,6 +1,6 @@
 variable "con_sub_id" {
     type = string
-    default = "fec7f842-b89f-4710-931e-01aaf82123dd"
+    default = "f64fc3ff-2792-4338-aa51-c97d4d388148"
 }
 
 variable "primary_region" {
